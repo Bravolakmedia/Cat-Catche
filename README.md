@@ -1,2 +1,2 @@
-# Cat-Catche
+# Cat-Stache
 Assignment on drawing moustache.
